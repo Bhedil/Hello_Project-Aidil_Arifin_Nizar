@@ -1,0 +1,3 @@
+Nama = Aidil Arifin Nizar
+NIM = 1301204180
+Kelas = IF-44-07
